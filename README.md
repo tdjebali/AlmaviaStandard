@@ -1,6 +1,6 @@
 # AlmaviaStandard
 
-This is a custom phpcs sniff that finds "Novactive" namespace and replace it by the new one.
+This is a custom phpcs sniff that finds "Novactive" namespace and replace it by the [new one](https://github.com/tdjebali/AlmaviaStandard/blob/main/Sniffs/Namespaces/DisallowOldNamesapceSniff.php#L12).
 
 ## How to use
 
